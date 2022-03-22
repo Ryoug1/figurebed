@@ -1,2 +1,2 @@
 # figurebed
-图床仓库
+#### PicGo GitHub 图床仓库
